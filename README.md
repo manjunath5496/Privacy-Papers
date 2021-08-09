@@ -30,8 +30,8 @@ for Remotely Teleoperated Robots</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(14).pdf" style="text-decoration:none;">Learning to Anonymize Faces for
 Privacy Preserving Action Detection</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(15).pdf" style="text-decoration:none;">Learning to Anonymize Faces for
-Privacy Preserving Action Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(15).pdf" style="text-decoration:none;">The Algorithmic Foundations
+of Differential Privacy</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(16).pdf" style="text-decoration:none;">AnonymousNet: Natural Face De-Identification with Measurable Privacy</a></li>
 
