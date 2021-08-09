@@ -71,7 +71,7 @@ for Biometric Data</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(31).pdf" style="text-decoration:none;">Attribute Preserved Face De-identification</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(32).pdf" style="text-decoration:none;">Privacy-Preserving Multi-Party Contextual Bandits</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(33).pdf" style="text-decoration:none;">pMSE Mechanism: Dierentially Private Synthetic Data with Maximal Distributional Similarity</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(33).pdf" style="text-decoration:none;">pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Privacy-Papers/blob/master/p(34).pdf" style="text-decoration:none;">Privacy-CNH: A Framework to Detect Photo Privacy with Convolutional Neural Network using Hierarchical Features</a></li> 
  
